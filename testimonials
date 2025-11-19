@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testimonials - Afro Events</title>
+</head>
+<body>
+    <nav>
+        <a href="index.html">Afro Events</a>
+        <a href="index.html">Home</a>
+        <a href="events.html">Events</a>
+        <a href="features.html">Features</a>
+        <a href="testimonials.html">Testimonials</a>
+        <a href="support.html">Support</a>
+    </nav>
+
+    <header>
+        <h1>What Our Users Say</h1>
+        <p>Real stories from real users who love Afro Events</p>
+        <a href="#testimonials">Read Stories</a>
+    </header>
+
+    <section id="testimonials">
+        <h2>User Testimonials</h2>
+        <p>Hear What Our Valued Customers Have to Say About the Afro App: A Source of Inspiration, Transformation & Unparalleled Satisfaction</p>
+        
+        <div>
+            <div>
+                <p>"Finding events is made easy with Afro Events! It includes every category that I enjoy. A must-have app!"</p>
+                <div>
+                    <div>MT</div>
+                    <div>
+                        <div>Mesfin Tadesse</div>
+                        <div>@EventLover23</div>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <p>"Love it! The interface is intuitive and the event recommendations are spot on. I've discovered so many amazing events I would have otherwise missed."</p>
+                <div>
+                    <div>SJ</div>
+                    <div>
+                        <div>Sisay Jemal</div>
+                        <div>@SisayJ</div>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <p>"I love how Afro Events combines simplicity and aesthetics in its user interface. It is not only easy to use but also visually appealing, creating a seamless and enjoyable event browsing experience."</p>
+                <div>
+                    <div>SA</div>
+                    <div>
+                        <div>Saba Alemu</div>
+                        <div>@SabaA</div>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <p>"As a busy professional, Afro Events has become my go-to app for finding events that align with my schedule and interests. The filtering options are fantastic!"</p>
+                <div>
+                    <div>AR</div>
+                    <div>
+                        <div>Amanuel Reta</div>
+                        <div>@AmanuelR</div>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <p>"I am constantly impressed by the range of categories offered by Afro Events. It caters to all my interests, from music and art to sports and food."</p>
+                <div>
+                    <div>JM</div>
+                    <div>
+                        <div>Jemal Mekonnen</div>
+                        <div>@JemalM</div>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <p>"The social features make it so easy to coordinate with friends. We've discovered so many great events together thanks to Afro!"</p>
+                <div>
+                    <div>JW</div>
+                    <div>
+                        <div>Judith Wondimu</div>
+                        <div>@JudithW</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>User Success Stories</h2>
+        
+        <div>
+            <div>
+                <h3>From Casual User to Event Organizer</h3>
+                <p>"I started using Afro Events just to find things to do on weekends. Now I'm organizing my own events through the platform! The tools for hosts are incredible and the support team is always helpful."</p>
+                <div>
+                    <div>DC</div>
+                    <div>
+                        <div>Daniel Chala</div>
+                        <div>Event Organizer</div>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <h3>Discovering New Passions</h3>
+                <p>"Thanks to Afro's recommendation system, I discovered a love for pottery classes I never would have tried otherwise. It's expanded my horizons and introduced me to a wonderful community of artists!"</p>
+                <div>
+                    <div>MR</div>
+                    <div>
+                        <div>Meskerem Reda</div>
+                        <div>@MeskeremR</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <h3>Building Community</h3>
+                <p>"Moving to a new city was tough, but Afro Events helped me meet people with similar interests. I've made lifelong friends through events I found on the app. It's more than an app - it's a community builder."</p>
+                <div>
+                    <div>AK</div>
+                    <div>
+                        <div>Abel Kassa</div>
+                        <div>@NewInTown</div>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <h3>Small Business Growth</h3>
+                <p>"As a small restaurant owner, listing our events on Afro has brought in so many new customers. The exposure has been incredible for our business. We've doubled our event attendance since joining the platform."</p>
+                <div>
+                    <div>TJ</div>
+                    <div>
+                        <div>Temesgen Jiru</div>
+                        <div>Family Restaurant Owners</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Join Our Community</h2>
+        <p>Become part of our growing community and share your own success story</p>
+        <a href="index.html">Get Started Today</a>
+    </section>
+
+    <footer>
+        <div>
+            <div>
+                <h3>Afro Events</h3>
+                <p>Discover amazing events that match your interests and schedule. Join our community of event enthusiasts today.</p>
+            </div>
+            
+            <div>
+                <h3>Features</h3>
+                <ul>
+                    <li><a href="features.html">Event Discovery</a></li>
+                    <li><a href="features.html">Smart Filtering</a></li>
+                    <li><a href="features.html">Personalized Alerts</a></li>
+                    <li><a href="features.html">Easy Booking</a></li>
+                </ul>
+            </div>
+            
+            <div>
+                <h3>Company</h3>
+                <ul>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="careers.html">Careers</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="press.html">Press</a></li>
+                </ul>
+            </div>
+            
+            <div>
+                <h3>Join Our Community</h3>
+                <ul>
+                    <li><a href="testimonials.html">Share Your Story</a></li>
+                    <li><a href="events.html">Become a Host</a></li>
+                    <li><a href="testimonials.html">Write a Review</a></li>
+                    <li><a href="index.html">Refer Friends</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <p>&copy; 2025 Afro Events. All rights reserved.</p>
+    </footer>
+</body>
+</html>
